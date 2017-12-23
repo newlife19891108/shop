@@ -1,0 +1,9 @@
+D:\项目\SimpleMall(1)(1)\SimpleMall\Model\bin\Release\Model.dll
+D:\项目\SimpleMall(1)(1)\SimpleMall\Model\bin\Release\Model.pdb
+D:\项目\SimpleMall(1)(1)\SimpleMall\Model\obj\Release\Model.dll
+D:\项目\SimpleMall(1)(1)\SimpleMall\Model\obj\Release\Model.pdb
+C:\Users\Administrator\Desktop\Shop\Model\bin\Release\Model.dll
+C:\Users\Administrator\Desktop\Shop\Model\bin\Release\Model.pdb
+C:\Users\Administrator\Desktop\Shop\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Shop\Model\obj\Release\Model.dll
+C:\Users\Administrator\Desktop\Shop\Model\obj\Release\Model.pdb

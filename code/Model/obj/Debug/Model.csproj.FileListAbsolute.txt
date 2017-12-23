@@ -1,0 +1,96 @@
+D:\hichoose\hichoose\Model\bin\Debug\Model.dll
+D:\hichoose\hichoose\Model\bin\Debug\Model.pdb
+D:\hichoose\hichoose\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\hichoose\hichoose\Model\obj\Debug\Model.dll
+D:\hichoose\hichoose\Model\obj\Debug\Model.pdb
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Model\bin\Debug\Model.dll
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Model\bin\Debug\Model.pdb
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Model\obj\Debug\Model.dll
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Model\obj\Debug\Model.pdb
+E:\HFQ备份\23wan3\hichoose\Model\bin\Debug\Model.dll
+E:\HFQ备份\23wan3\hichoose\Model\bin\Debug\Model.pdb
+E:\HFQ备份\23wan3\hichoose\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\HFQ备份\23wan3\hichoose\Model\obj\Debug\Model.dll
+E:\HFQ备份\23wan3\hichoose\Model\obj\Debug\Model.pdb
+D:\hichoose\Model\bin\Debug\Model.dll
+D:\hichoose\Model\bin\Debug\Model.pdb
+D:\hichoose\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\hichoose\Model\obj\Debug\Model.dll
+D:\hichoose\Model\obj\Debug\Model.pdb
+E:\项目\未分类\hichoose\Model\bin\Debug\Model.dll
+E:\项目\未分类\hichoose\Model\bin\Debug\Model.pdb
+E:\项目\未分类\hichoose\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\hichoose\Model\obj\Debug\Model.dll
+E:\项目\未分类\hichoose\Model\obj\Debug\Model.pdb
+F:\工作\源码\更新\6   简单三层购物网站源码\Model\bin\Debug\Model.dll
+F:\工作\源码\更新\6   简单三层购物网站源码\Model\bin\Debug\Model.pdb
+F:\工作\源码\更新\6   简单三层购物网站源码\Model\obj\Debug\Model.dll
+F:\工作\源码\更新\6   简单三层购物网站源码\Model\obj\Debug\Model.pdb
+F:\工作\源码\自己搜集的源码\新建文件夹\Model\bin\Debug\Model.dll
+F:\工作\源码\自己搜集的源码\新建文件夹\Model\bin\Debug\Model.pdb
+F:\工作\源码\自己搜集的源码\新建文件夹\Model\obj\Debug\Model.dll
+F:\工作\源码\自己搜集的源码\新建文件夹\Model\obj\Debug\Model.pdb
+D:\项目\SimpleMall(1)(1)\SimpleMall\Model\bin\Debug\Model.dll
+D:\项目\SimpleMall(1)(1)\SimpleMall\Model\bin\Debug\Model.pdb
+D:\项目\SimpleMall(1)(1)\SimpleMall\Model\obj\Debug\Model.dll
+D:\项目\SimpleMall(1)(1)\SimpleMall\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\原配网\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\原配网\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\原配网\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\原配网\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\原配网\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\软工\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\软工\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\软工\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\软工\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\1\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\1\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\1\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\2\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\2\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\2\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\2\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\RG\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\RG\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\RG\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RG\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\RG\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\carshop\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\carshop\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\carshop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\carshop\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\carshop\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\18.04\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\18.04\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\18.04\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\18.04\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\18.04\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (6)\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹 (6)\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (6)\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (6)\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹 (6)\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\原原\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\原原\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\原原\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\原原\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\原原\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Shop\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Shop\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Shop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Shop\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\Shop\Model\obj\Debug\Model.pdb
+D:\Shop\Model\bin\Debug\Model.dll
+D:\Shop\Model\bin\Debug\Model.pdb
+D:\Shop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Shop\Model\obj\Debug\Model.dll
+D:\Shop\Model\obj\Debug\Model.pdb
